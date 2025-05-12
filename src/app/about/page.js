@@ -14,7 +14,6 @@ export default function AboutPage() {
                 />
         <p>This is the about page</p>
 
-        <p><a href="/">Home</a></p>
       </div>
     );
   }
