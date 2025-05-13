@@ -13,7 +13,7 @@ export default function AboutPage() {
                   priority
                 />
         <p>This is the about page</p>
-        <p>This will eventually be a link to home.</p>
+        <p>This will eventually be a link to home. Testing.</p>
       </div>
     );
   }
